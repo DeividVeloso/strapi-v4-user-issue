@@ -26,6 +26,7 @@ yarn develop
 
 ## Open Admin Panel
 Create a user 
+
 Create some games
 
 ## Open the Graphql Playground
